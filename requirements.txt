@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+mediapipe==0.10.32
+tensorflow==2.20.0
+gtts
+pillow
+numpy
