@@ -4,3 +4,4 @@ mediapipe==0.10.7
 tensorflow-cpu==2.13.0
 numpy==1.24.4
 gTTS
+python-3.10
